@@ -1,3 +1,8 @@
+## Copied from 
+https://github.com/dgleich/more-graphs/tree/master/Julia-dependency-graph
+
+Citation: https://github.com/dgleich/more-graphs#more-graph-datasets
+
 ## Data Description
 This is the Julia packages dependency graph generated on 2019-10-10. If package A depends on package B, then there will be a directed link from B to A.
 
